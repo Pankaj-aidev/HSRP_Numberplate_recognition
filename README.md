@@ -1,0 +1,1 @@
+This project implements a Vehicle Number Plate Recognition system leveraging CNN-based computer vision models for number plate detection and segmentation, along with NLP techniques for character recognition, correction, and formatting.
